@@ -1,0 +1,14 @@
+Pages\PaymentPage.class
+Pages\CartPage.class
+Pages\CheckoutPage.class
+Pages\BasePage.class
+Pages\AccountPage.class
+Pages\HomePage.class
+Pages\ProductsPage.class
+Pages\TestCasePage.class
+Pages\CategoriesPage.class
+Pages\ProductDetailsPage.class
+Pages\ContactUsPage.class
+Pages\LoginPage.class
+Pages\Edges_Final_Project.class
+Pages\SignUpFullInfo.class
